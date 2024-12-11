@@ -18,3 +18,5 @@ class Block {
 
 const block = new Block("2019-01-01", {amount: 5 },"ABCD");
 console.log(block);
+
+//Auny tui amar pad kha
